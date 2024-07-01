@@ -39,6 +39,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #CC0033;
 }
 
 .toggle-menu-button {
@@ -88,7 +89,7 @@ img {
         top : 0;
         left: 0;
         right: 0;
-        background-color: #ffffff;
+        background-color: #CC0033;
         height: 50px;
         z-index: 10;
         box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
@@ -106,7 +107,7 @@ img {
         top: 100%;
         left: 0;
         right: 0;
-        color: #ffffff;
+        color: #CC0033;
         background-color: #736e62;
         padding-top: 30px;
         padding-bottom: 50px;
