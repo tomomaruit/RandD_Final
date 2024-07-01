@@ -13,7 +13,7 @@
 }
 
 .title h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'BIZ UDPGothic', serif;
     font-size: 32pt;
     font-weight: bold;
 }
@@ -23,16 +23,13 @@
     margin-top: 15px;
 }
 
-
-.feature-text {
-    max-width: 500px;
-    margin-right: 40px;
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
-.feature img {
-    max-width: 500px;
-    margin-right: 40px;
-}
 
 
 .footer {

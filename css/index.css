@@ -74,6 +74,15 @@ img {
     max-width: 100%;
 }
 
+.header {
+    background-color: #CC0033;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
 .header-inner {
     max-width: 1200px;
     height: 110px;
@@ -84,6 +93,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #CC0033;
 }
 
 .toggle-menu-button {
@@ -123,7 +133,7 @@ img {
         top : 0;
         left: 0;
         right: 0;
-        background-color: #ffffff;
+        background-color: #CC0033;
         height: 50px;
         z-index: 10;
         box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
@@ -142,7 +152,7 @@ img {
         left: 0;
         right: 0;
         color: #ffffff;
-        background-color: #736e62;
+        background-color: #CC0033;
         padding-top: 30px;
         padding-bottom: 50px;
         display: none;
