@@ -74,6 +74,15 @@ img {
     max-width: 100%;
 }
 
+.header {
+    background-color: #CC0033;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
 .header-inner {
     max-width: 1200px;
     height: 110px;
