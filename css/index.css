@@ -30,7 +30,7 @@ nav.floating {
 }
 
 .first-view-text h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'BIZ UDPGothic', serif;
     font-size: 56px;
     line-height: 72px;
 }
@@ -105,7 +105,7 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'Zen Maru Gothic', serif;
+    font-family: 'BIZ UDPGothic', serif;
 }
 
 @media (max-width: 800px) {
@@ -185,7 +185,7 @@ img {
 
 .footer {
     color: #ffffff;
-    background-color: #24211b;
+    background-color: #CC0033;
     padding-top: 30px;
     padding-bottom: 15px;
     display: flex;
