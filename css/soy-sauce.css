@@ -44,6 +44,11 @@
     margin-right: 40px;
 }
 
+.link {
+    text-decoration: underline;
+    color: blue;
+}
+
 .reverse {
     flex-direction: row-reverse;
 }
