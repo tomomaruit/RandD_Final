@@ -29,14 +29,7 @@ img {
     max-width: 80%;
 }
 
-.header {
-    background-color: #CC0033;
-    height: 110px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #ffffff;
-}
+
 
 .header-inner {
     max-width: 1200px;
